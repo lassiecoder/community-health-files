@@ -889,7 +889,7 @@ For answers to common questions about this code of conduct see the FAQ at <https
   fs.writeFileSync(supportTemplate, supportTemplateContent);
   fs.writeFileSync(codeOfConductTemplate, codeOfConductTemplateContent);
 
-  const repoLink = "https://github.com";
+  const repoLink = "https://github.com/lassiecoder/community-health-files";
 
   console.log(
     "\n⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆⋆⋅☆⋅⋆"

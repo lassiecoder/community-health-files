@@ -125,6 +125,6 @@ If you chose to skip the funding options during the installation process, you ca
 
 ## ✨ Support my work ✨
 
-If you find this package helpful, please consider supporting me by **[adding a star ⭐ to the repository](https://github.com/your-username/your-repo-name)**. Your support helps me improve and continue providing valuable open-source software.
+If you find this package helpful, please consider supporting me by **[adding a star ⭐ to the repository](https://github.com/lassiecoder/community-health-files)**. Your support helps me improve and continue providing valuable open-source software.
 
 Thank you! :)
