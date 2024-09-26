@@ -1,0 +1,32 @@
+{
+  "name": "community-health-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test-local": "chmod +x index.js",
+    "npm-login": "npm login",
+    "npm-publish": "npm publish"
+  },
+  "keywords": [
+    "npx community-health-files",
+    "community-health-files",
+    "github community-health-files",
+    "community health files",
+    "open source community health files",
+    "github community health files",
+    "open source projects management",
+    "community profiles",
+    "default community health file",
+    "open source guides",
+    "gitHub support package",
+    "package for moderating your community",
+    "community management and moderation",
+    "npm i community-health-files"
+  ],
+  "author": "Priyanka Sharma <https://lassiecoder.github.io/portfolio>",
+  "license": "MIT",
+  "description": "This package is designed to offer a streamlined and efficient workflow for managing community health files, such as contributing guidelines, security policies, and codes of conduct, in a structured and easily accessible manner.",
+  "bin": {
+    "community-health-files": "./index.js"
+  }
+}
