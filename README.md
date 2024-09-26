@@ -1,5 +1,3 @@
-# Project Documentation
-
 ## Introduction
 
 The `community-health-files` package is designed to automate the creation and management of essential files like `CODE_OF_CONDUCT.md`, `BUG_REPORT.yml`, and `SECURITY.md` for open-source projects.
